@@ -1,0 +1,106 @@
+{
+	"categories": [
+        {"id": 1, "categoryName": "TShirts"},
+        {"id": 2, "categoryName": "Pants"},
+        {"id": 3, "categoryName": "Shorts"}
+    ],
+
+    "products": [
+        {
+            "productId":"1",
+            "categoryId":1,
+            "productName":"US Polo TShirt",
+            "description":"Polo",
+            "rating":"4",
+            "price":"20.00",
+            "productImg":"assets/images/1.png",
+            "isAvailable":true,
+            "color":"Orange",
+            "reviews":"8"
+        },
+        {
+            "productId":"2",
+            "categoryId":1,
+            "productName":"Crocodile TShirt",
+            "description":"Polo",
+            "rating":"4",
+            "price":"15.00",
+            "productImg":"assets/images/2.png",
+            "isAvailable":true,
+            "color":"Green",
+            "reviews":"10"
+        },
+        {
+            "productId":"3",
+            "categoryId":1,
+            "productName":"US Polo TShirt",
+            "description":"Polo",
+            "rating":"4",
+            "price":"20.00",
+            "productImg":"assets/images/3.jpg",
+            "isAvailable":true,
+            "color":"Green",
+            "reviews":"10"
+        },
+        {
+            "productId":"4",
+            "categoryId":1,
+            "productName":"US Polo TShirt",
+            "description":"V neck",
+            "rating":"4",
+            "price":"15.00",
+            "productImg":"assets/images/4.jpg",
+            "isAvailable":true,
+            "color":"Green",
+            "reviews":"10"
+        },
+        {
+            "productId":"5",
+            "categoryId":2,
+            "productName":"Track Pant",
+            "description":"Tracks",
+            "rating":"4",
+            "price":"20.00",
+            "productImg":"assets/images/5.jpg",
+            "isAvailable":true,
+            "color":"Orange",
+            "reviews":"8"
+        },
+        {
+            "productId":"6",
+            "categoryId":2,
+            "productName":"Casual Pant",
+            "description":"Casuals",
+            "rating":"4",
+            "price":"15.00",
+            "productImg":"assets/images/6.jpg",
+            "isAvailable":true,
+            "color":"Green",
+            "reviews":"10"
+        },
+        {
+            "productId":"7",
+            "categoryId":3,
+            "productName":"Boxer Shorts",
+            "description":"Shorts",
+            "rating":"4",
+            "price":"20.00",
+            "productImg":"assets/images/7.jpg",
+            "isAvailable":true,
+            "color":"Green",
+            "reviews":"10"
+        },
+        {
+            "productId":"8",
+            "categoryId":3,
+            "productName":"Plain Shorts",
+            "description":"V Shorts",
+            "rating":"4",
+            "price":"15.00",
+            "productImg":"assets/images/8.jpg",
+            "isAvailable":true,
+            "color":"Green",
+            "reviews":"10"
+        }
+    ]
+}

@@ -1,5 +1,4 @@
-<div class="list-group">
-    <a href="#" class="list-group-item">Category 1</a>
-    <a href="#" class="list-group-item">Category 2</a>
-    <a href="#" class="list-group-item">Category 3</a>
+<a href="/products" class="list-group-item">View All</a>
+<div class="list-group" *ngFor="let cat of categoryList">
+    <a href="/products/category/{{cat.id}}" class="list-group-item">{{cat.categoryName}}</a>
 </div>
